@@ -43,3 +43,6 @@ This document is written in [markdown](https://en.wikipedia.org/wiki/Markdown), 
 
 #### R and time series
 - A [curated list of time series topics in R](https://cran.r-project.org/web/views/TimeSeries.html).
+
+#### R Color Themes
+* https://datalab.cc/rcolors
